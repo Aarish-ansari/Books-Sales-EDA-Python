@@ -34,7 +34,11 @@ The analysis was broken down into 4 core business pillars:
 1. **The Price-Volume Paradox:** *(Scatter Plot Insight)* — The data reveals that the highest volume of units sold clusters heavily in the mid-to-lower price brackets; extreme premium pricing shows a sharp drop-off in reader acquisition.
 2. **Author Equity:** *(Boxplot Insight)* — While high `Author_Ratings` correlate with steadier baseline sales, several "breakout" bestsellers came from mid-rated authors, proving that trend-driven genres can occasionally override author brand equity.
 3. **Genre Skew:** A small fraction of mainstream genres account for the vast majority of total units sold, leaving niche genres with high reader ratings but low commercial volume.
+### 📊 Key Visualizations
 
+![Genre Boxplot](BoxPlot.png)
+
+![Sales Line Chart](LineChart.png)
 ---
 
 ## 🛠️ Technical Implementation
@@ -51,4 +55,4 @@ The analysis was broken down into 4 core business pillars:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/Books-Sales-EDA-Python.git](https://github.com/YOUR_GITHUB_USERNAME/Books-Sales-EDA-Python.git)
+   git clone [https://github.com/Aarish-ansari/Books-Sales-EDA-Python.git](https://github.com/Aarish-ansari/Books-Sales-EDA-Python.git)
